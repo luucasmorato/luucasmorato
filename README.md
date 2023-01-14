@@ -1,4 +1,4 @@
-# Hello world, meu nome é Lucas 👋
+# Helloooo world, meu nome é Lucas 👋
 
 Sou graduado em Ciência da Computação e pós graduado em Engenharia de Software. Apaixonado por tecnologia e desenvolvimento de sistemas. Trabalho com desenvolvimento fullstack web e mobile utilizando principalmente javascript e todo seu ecossistema.
 <div align="center"> 
